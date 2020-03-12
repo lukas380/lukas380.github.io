@@ -14,9 +14,9 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: Sobre mim
     url: /about
-  - title: Contact
+  - title: Contato
     url: /contact
   - title: Feed
     url: /feed.xml
@@ -24,8 +24,7 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
+github_username: lukas380
 instagram_username: instagram_username
 linkedin_username: lucas-cardoso-freitas
 
