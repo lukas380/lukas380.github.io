@@ -1,14 +1,14 @@
 # Site Settings
 name: Lucas Cardoso
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+title: Lucas Cardoso | Uma tentativa de blog
+description: Criado para postar atividades do curso de SMD
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: lucascardosofreitas96@gmail.com
 disqus_username: disqus_username
 show_hero: true
 menu:
