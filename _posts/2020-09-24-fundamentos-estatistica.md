@@ -25,6 +25,8 @@ Após isso, fui para a adaptação do código da tarefa, utilizei o mesmo dispon
 Os resultados foram os seguintes:
 
 <strong>Einstein</strong>
+
+![Einsteins]( https://lukas380.github.io/assets/img/post_img_body/einsteins.png)
 <table>
   <thead>
     <tr>
@@ -68,13 +70,16 @@ Os resultados foram os seguintes:
 </table>
 
 
-Em `eisntein1.png` diminuí o bilho em 18, mas para equilibrar aumentei seu contraste em 86. Isto fez com que a Média chegasse próxima a da original. Porém, seu Desvio Padrão cresceu bastante. Então podemos ver que os valores ficaram mais distantes da média.
+Em `einstein1.png` diminuí o bilho em 18, mas para equilibrar aumentei seu contraste em 86. Isto fez com que a Média chegasse próxima a da original. Porém, seu Desvio Padrão cresceu bastante. Então podemos ver que os valores ficaram mais distantes da média.
 
-Em `eisntein2.png` fiz o inverso, aumentei o brilho em 57 e diminuí o contraste em 57. Isto fez com que a Média aumentasse em quase 100 em comparação com a imagem original. Já seu Desvio Padrão, diminuiu bastante, nos mostrando que os valores dos pixels estão próximos da média, ou seja, conseguimos enxergar a imagem quase sem perceber variações no brilho e contraste entre os pixels.
+Em `einstein2.png` fiz o inverso, aumentei o brilho em 57 e diminuí o contraste em 57. Isto fez com que a Média aumentasse em quase 100 em comparação com a imagem original. Já seu Desvio Padrão, diminuiu bastante, nos mostrando que os valores dos pixels estão próximos da média, ou seja, conseguimos enxergar a imagem quase sem perceber variações no brilho e contraste entre os pixels.
 
-Em `eisntein3.png` deixei os valores do bilho e contraste próximos, -42 e -41 respectivamente. Assim, a Média variou pouco em comparação à imagem original. Além disso, seu Desvio Padrão diminuiu bastante, nos mostrando que a imagem está mais homogênea.
+Em `einstein3.png` deixei os valores do bilho e contraste próximos, -42 e -41 respectivamente. Assim, a Média variou pouco em comparação à imagem original. Além disso, seu Desvio Padrão diminuiu bastante, nos mostrando que a imagem está mais homogênea.
+
 
 <strong>Cinza</strong>
+
+![Cinzas]( https://lukas380.github.io/assets/img/post_img_body/cinzas.png)
 <table>
   <thead>
     <tr>
@@ -116,3 +121,9 @@ Em `eisntein3.png` deixei os valores do bilho e contraste próximos, -42 e -41 r
     </tr>
   </tbody>
 </table>
+
+Em `cinza1.png`
+
+Em `cinza2.png`
+
+Em `cinza3.png`
