@@ -132,7 +132,8 @@ Em `cinza3.png` as variações de brilho foram iguais as de einstein3.png, brilh
 ## Conclusões
 
 Pude perceber que quanto maior o brilho, maior a Média, devido ao aumento de pixels próximos ao branco. E ao usar o contraste tentamos balancear o Desvio Padrão para que a imagem não tenha os valores de seus pixels muito destoantes uns dos outros. 
-Porém, em imagens não totalmente escuras ou claras, como a de einstein, dificilmente o Desvio será 0 pois ela possui pontos mais claros ou escuros bem definidos, a não ser que seu brilho e contraste sejam mínimos, então ela será homogênea, como na imagem a seguir na qual diminuí o brilho e contraste em 100.
+
+Porém, em imagens não totalmente escuras ou claras, como a de einstein, dificilmente o Desvio será 0 pois ela possui pontos mais claros ou escuros bem definidos, a não ser que seu brilho e contraste sejam mínimos, então ela será homogênea, como na imagem de einstein a seguir, na qual diminuí o brilho e contraste em 100.
 
 ![Einstein sem brilho e contraste](https://lukas380.github.io/assets/img/post_img_body/estatistica/einstein_s_brilho_contraste.jpg)
 
