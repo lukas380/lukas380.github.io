@@ -4,8 +4,8 @@ layout: post
 title: Fundamentos da Estatística
 subtitle: 
 description: 
-image: https://lukas380.github.io/assets/img/post_img_body/einstein.jpg
-optimized_image: https://lukas380.github.io/assets/img/post_img_body/einstein.jpg
+image: https://lukas380.github.io/assets/img/post_img_body/estatistica/einstein.jpg
+optimized_image: https://lukas380.github.io/assets/img/post_img_body/estatistica/einstein.jpg
 category: mami
 tags:
   - mami
@@ -17,7 +17,7 @@ paginate: false
 
 >  Escolha um editor de imagens digitais e crie versões das imagens “einstein.jpg” e “cinza.jpg”, alterando brilho e contraste. Analise e comente qual impacto ocorreu na média e no desvio padrão.
 
-Escolhi o Photoshop para criar as versões das imagens solicitadas. Então, realizei três alterações no brilho em contraste em cada uma das imagens, totalizando seis imagens.
+Escolhi o Photoshop para criar as versões das imagens solicitadas. Então, realizei três alterações de mesmo valor no brilho e no contraste em cada uma das imagens, totalizando seis imagens.
 
 
 Após isso, fui para a adaptação do código da tarefa, utilizei o mesmo disponibilizado nos slides, que calcula e indica a Média de Tons Cinzas e o Desvio Padrão entre estes tons de cada pixel da imagem carregada.
