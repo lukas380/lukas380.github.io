@@ -74,7 +74,7 @@ Em `einstein1.png` diminuí o bilho em 18, mas para equilibrar aumentei seu cont
 
 Em `einstein2.png` fiz o inverso, aumentei o brilho em 37 e diminuí o contraste em 57. Isto fez com que a Média aumentasse em quase 100 em comparação com a imagem original, pois ela ficou mais clara. Já seu Desvio Padrão, diminuiu bastante, nos mostrando que os valores dos pixels estão próximos da média, ou seja, conseguimos enxergar a imagem quase sem perceber variações no brilho e contraste entre os pixels.
 
-Em `einstein3.png` deixei os valores do brilho e contraste próximos, -42 e -41 respectivamente. Assim, a Média variou pouco em comparação à imagem original. Além disso, seu Desvio Padrão diminuiu bastante, nos mostrando que a imagem está mais homogênea.
+Em `einstein3.png` deixei os valores do brilho e contraste próximos, -42 e -41 respectivamente. Assim, a Média variou pouco em comparação à imagem original. Além disso, seu Desvio Padrão diminuiu bastante, nos mostrando que a imagem está mais homogênea que a imagem original.
 
 
 ## Cinza
@@ -131,9 +131,9 @@ Em `cinza3.png` as variações de brilho foram iguais as de einstein3.png, brilh
 
 ## Conclusões
 
-Pude perceber que quanto maior o brilho, maior a Média, devido ao aumento de pixels próximos ao branco. E ao usar o contraste tentamos balancear o Desvio Padrão para que a imagem não tenha os valores de seus pixels muito destoantes uns dos outros. 
+Pude perceber que quanto maior o brilho, maior a Média, devido ao aumento de pixels próximos ao branco. E ao usar o contraste podemos balancear o Desvio Padrão para que a imagem não tenha os valores de seus pixels muito destoantes uns dos outros. 
 
-Porém, em imagens não totalmente escuras ou claras, como a de einstein, dificilmente o Desvio será 0 pois ela possui pontos mais claros ou escuros bem definidos, a não ser que seu brilho e contraste sejam mínimos, então ela será homogênea, como na imagem de einstein a seguir, na qual diminuí o brilho e contraste em 100.
+Porém, em imagens não totalmente escuras ou claras, como a de einstein, dificilmente o Desvio será 0 pois ela possui pontos mais claros ou escuros bem definidos, a não ser que seu brilho e contraste sejam mínimos, então ela será homogênea, como na imagem de einstein a seguir, na qual diminuí o brilho e contraste em 100 e seu Desvio Padrão foi exatamente 0:
 
 ![Einstein sem brilho e contraste](https://lukas380.github.io/assets/img/post_img_body/estatistica/einstein_s_brilho_contraste.jpg)
 
