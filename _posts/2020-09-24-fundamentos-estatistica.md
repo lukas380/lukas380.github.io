@@ -1,7 +1,7 @@
 ---
 date: 2020-09-24 20:32:40
 layout: post
-title: Fundamentos da Estatística
+title: Fundamentos de Estatística
 subtitle: 
 description: 
 image: https://lukas380.github.io/assets/img/post_img_body/estatistica/einstein.jpg
@@ -66,6 +66,13 @@ Os resultados foram os seguintes:
     </tr>
   </tbody>
 </table>
+
+
+Em `eisntein1.png` diminuí o bilho em 18, mas para equilibrar aumentei seu contraste em 86. Isto fez com que a Média chegasse próxima a da original. Porém, seu Desvio Padrão cresceu bastante. Então podemos ver que os valores ficaram mais distantes da média.
+
+Em `eisntein2.png` fiz o inverso, aumentei o brilho em 57 e diminuí o contraste em 57. Isto fez com que a Média aumentasse em quase 100 em comparação com a imagem original. Já seu Desvio Padrão, diminuiu bastante, nos mostrando que os valores dos pixels estão próximos da média, ou seja, conseguimos enxergar a imagem quase sem perceber variações no brilho e contraste entre os pixels.
+
+Em `eisntein3.png` deixei os valores do bilho e contraste próximos, -42 e -41 respectivamente. Assim, a Média variou pouco em comparação à imagem original. Além disso, seu Desvio Padrão diminuiu bastante, nos mostrando que a imagem está mais homogênea.
 
 <strong>Cinza</strong>
 <table>
