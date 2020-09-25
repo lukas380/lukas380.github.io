@@ -72,7 +72,7 @@ Os resultados foram os seguintes:
 
 Em `einstein1.png` diminuí o bilho em 18, mas para equilibrar aumentei seu contraste em 86. Isto fez com que a Média chegasse próxima a da original. Porém, seu Desvio Padrão cresceu bastante. Então podemos ver que os valores ficaram mais distantes da média, ou seja, fica mais nítido na imagem que alguns pontos estão mais destoantes de outros.
 
-Em `einstein2.png` fiz o inverso, aumentei o brilho em 37 e diminuí o contraste em 57. Isto fez com que a Média aumentasse em quase 100 em comparação com a imagem original, pois ela ficou mais clara. Já seu Desvio Padrão, diminuiu bastante, nos mostrando que os valores dos pixels estão próximos da média, ou seja, conseguimos enxergar a imagem quase sem perceber variações no brilho e contraste entre os pixels.
+Em `einstein2.png` fiz o inverso, aumentei o brilho em 37 e diminuí o contraste em 57. Isto fez com que a Média aumentasse em quase 100 em comparação com a imagem original, pois ela ficou mais clara. Já seu Desvio Padrão, diminuiu bastante, nos mostrando que os valores dos pixels estão próximos da média, ou seja, conseguimos enxergar a imagem com poucas variações no brilho e contraste entre os pixels, como se ela tivesse um filtro de cor única sobreposto.
 
 Em `einstein3.png` deixei os valores do brilho e contraste próximos, -42 e -41 respectivamente. Assim, a Média variou pouco em comparação à imagem original. Além disso, seu Desvio Padrão diminuiu bastante, nos mostrando que a imagem está mais homogênea que a imagem original.
 
