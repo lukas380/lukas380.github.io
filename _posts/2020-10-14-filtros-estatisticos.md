@@ -4,8 +4,8 @@ layout: post
 title: Filtros Estatísticos
 subtitle: 
 description: 
-image: https://lukas380.github.io/assets/img/post_img_body/filtros-est.png
-optimized_image: https://lukas380.github.io/assets/img/post_img_body/filtros-est.png
+image: https://lukas380.github.io/assets/img/post_img_body/filtros-est.PNG
+optimized_image: https://lukas380.github.io/assets/img/post_img_body/filtros-est.PNG
 category: mami
 tags:
   - mami
@@ -27,7 +27,7 @@ Para solucionar essa questão acrescentei um `if` no final do laço que calcula 
 
 Resultado:
 
-![Moda](https://lukas380.github.io/assets/img/post_img_body/filtros-est-final)
+![Resultado](https://lukas380.github.io/assets/img/post_img_body/filtros-est-final.png)
 
 <center>
   <button style="background-color: #ff0a16; border: none; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;"> 
