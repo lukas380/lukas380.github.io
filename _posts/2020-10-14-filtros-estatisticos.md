@@ -1,5 +1,5 @@
 ---
-date: 2020--14 20:32:40
+date: 2020-10-14 20:32:40
 layout: post
 title: Filtros Estatísticos
 subtitle: 
