@@ -138,15 +138,15 @@ strong {
 }
 
 .section__item {
-    width: 304px;
-    height: 171px;
+    /*width: 304px;
+    height: 171px;*/
     background-color: var(--secondary-black);
     border-radius: 8px;
     overflow: hidden;
 }
 
-.projects__item--img {
-    height: 100%;
+.section__list__item {
+    max-width: 100%;
 }
 
 .projects__btn {
@@ -197,6 +197,15 @@ strong {
 .experience__complete-resume--text{
     margin-left: 8px;
 }
+/*
+.experience__list{
+    max-width: 100%;
+}*/
+
+.experience__item {
+    width: 100%;
+    height: 171px;
+}
 
 .experience__item--link {
     display: flex;
@@ -236,6 +245,10 @@ strong {
 
 .education__item__info--institution {
     font-weight: 700;
+}
+
+.education__item__info {
+    line-height: 20px;
 }
 
 .back-to-top-btn--link {
@@ -289,7 +302,14 @@ strong {
     margin-bottom: 16px;
 }
 
-@media screen and (min-width:1280px) {
+@media screen and (min-width:720px) {
+    .section__item {
+        width: 304px;
+        height: 171px;
+    }
+}
+
+@media screen and (min-width:1000px) {
     /*Header*/
     .header {
         display: flex;
@@ -367,9 +387,6 @@ strong {
 
     /*Education*/
 
-    .education__item__info {
-        line-height: 20px;
-    }
 
     /*Footer*/
     .footer .section__info-social--list{
