@@ -147,6 +147,7 @@ strong {
 
 .section__list__item {
     max-width: 100%;
+    height: 100%;
 }
 
 .projects__btn {
