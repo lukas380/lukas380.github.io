@@ -94,7 +94,7 @@ strong {
 
 .about-me__info-social {
     font-family: var(--secondary-font);
-    font-size: 1rem;
+    font-size:  1.5rem;
     letter-spacing: -0.02em;
     margin-bottom: 8px;
 }
